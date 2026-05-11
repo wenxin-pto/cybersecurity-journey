@@ -11,7 +11,7 @@ This repository documents my journey learning cybersecurity through:
 - Security Fundamentals
 
 📂 Projects:
-- Port Scanner (In Progress)
+
 
 🧠 Daily System:
 - Learn (Coursera)
