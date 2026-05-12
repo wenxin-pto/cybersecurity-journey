@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27644753/README.md)
+
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Analyze Network Traffic with Wireshark
@@ -6,7 +6,6 @@
 **Project Link:** [View Project](https://learn.nextwork.org/projects/3862c05e-0ab8-4a8e-a203-0917e3da4b43)
 
 **Author:** wenxin  
-**Email:** wxxx.ii.nn@gmail.com
 
 ---
 
