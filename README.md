@@ -7,13 +7,13 @@ This repository documents my journey learning cybersecurity through:
 
 🛠️ Current Focus: 
 - Networking Basics
-- Port Scanning
 - Security Fundamentals
+- Building Projects
 
 📂 Projects:
+- 01 Network-Traffic Analyser
 
-
-🧠 Daily System:
+🧠 System:
 - Learn (Coursera)
 - Practice (TryHackMe)
 - Build (Projects)
