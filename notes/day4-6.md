@@ -4,9 +4,6 @@
 
 **Project Link:** [View Project](https://learn.nextwork.org/projects/3862c05e-0ab8-4a8e-a203-0917e3da4b43)
 
-**Author:** wenxin  
-**Email:** wxxx.ii.nn@gmail.com
-
 ---
 
 ![Image](https://learn.nextwork.org/proud_indigo_wise_yeti/uploads/3862c05e-0ab8-4a8e-a203-0917e3da4b43_a40vg8mu)
