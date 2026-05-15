@@ -1,18 +1,18 @@
-# cybersecurity-journey 🚀
+# Cybersecurity-Journey 🚀
 
-This repository documents my journey learning cybersecurity through:
+## This repository documents my journey learning cybersecurity through:
 - Hands-on projects
 - Coursera courses (Current: Introduction to cybersecurity by Google) [notes section]
 
-🛠️ Current Focus: 
+## 🛠️ Current Focus: 
 - Networking Basics
 - Security Fundamentals
 - Building Projects for SOC Analyst Portfolio
 
-📂 Projects:
+## 📂 Projects:
 - 01 Network-Traffic Analyser
 
-🧠 System:
+## 🧠 System:
 - Learn (Coursera)
 - Practice (TryHackMe)
 - Build (Projects)
